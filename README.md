@@ -9,18 +9,17 @@ Vanilla+ Library is a library data pack for Minecraft 1.15+. Its functionalities
 - Custom durability for tools;
 
 The current available modules are:
-- [Core](https://github.com/TheWii/vanilla-plus-library/tree/master/vplib-core-datapack)
-- [Custom Crafting](https://github.com/TheWii/vanilla-plus-library/tree/master/vplib-custom-crafting-datapack)
-- [Block Placement](https://github.com/TheWii/vanilla-plus-library/tree/master/vplib-block-placement-datapack)
-- [Math(incomplete)](https://github.com/TheWii/vanilla-plus-library/tree/master/vplib-math-datapack)
-- [Click Detection(incomplete)](https://github.com/TheWii/vanilla-plus-library/tree/master/vplib-click-detection-datapack)
+- [Core](https://github.com/vanilla-plus-library/core)
+- [Custom Crafting](https://github.com/vanilla-plus-library/custom-crafting)
+- [Block Placement](https://github.com/vanilla-plus-library/block-placement)
+- [Math(incomplete)]
+- [Click Detection(incomplete)]
 - Inventory(coming soon)
 - Raycasting(coming soon)
 
 Additional:
-- [Resource Pack](https://github.com/TheWii/vanilla-plus-library/tree/master/vplib-resourcepack)
-- [Vanilla Recipe Pack](https://github.com/TheWii/vanilla-plus-library/tree/master/vplib-vanilla-recipepack)
-- [Crafting Tweaks Addon](https://github.com/TheWii/vplib-crafting-tweaks)
+- [Vanilla Recipe Pack](https://github.com/vanilla-plus-library/vanilla-recipepack)
+- [Crafting Tweaks Addon](https://github.com/vanilla-plus-library/crafting-tweaks)
 
 
 # Vanilla+ Library: Core
