@@ -12,8 +12,8 @@ The current available modules are:
 - [Core](https://github.com/vanilla-plus-library/core)
 - [Custom Crafting](https://github.com/vanilla-plus-library/custom-crafting)
 - [Block Placement](https://github.com/vanilla-plus-library/block-placement)
-- [Math(incomplete)]
-- [Click Detection(incomplete)]
+- Math(incomplete)
+- Click Detection(incomplete)
 - Inventory(coming soon)
 - Raycasting(coming soon)
 
