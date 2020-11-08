@@ -1,6 +1,6 @@
-#> vplib:core/v1/load/enumerate
+#> vplib:core/__ver/load/enumerate
 # DEBUG
-tellraw @a[tag=vplib.debug+] [{"text":"[Debug]: ","color":"yellow","bold":true},{"text":"Enumerated Vanilla+ Library: Core v1","color":"white","bold":false}]
+tellraw @a[tag=vplib.debug+] [{"text":"[Debug]: ","color":"yellow","bold":true},{"text":"Enumerated Vanilla+ Library: Core __ver","color":"white","bold":false}]
 
 # Set current version
 execute unless score #vplib.core.current vplib.load matches 1.. run scoreboard players set #vplib.core.current vplib.load 1

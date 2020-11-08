@@ -1,4 +1,4 @@
-#> vplib:core/v1/core/set_chunk
+#> vplib:core/__ver/core/set_chunk
 
 # Forceload
 forceload add -30000000 4320

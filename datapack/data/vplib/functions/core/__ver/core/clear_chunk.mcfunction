@@ -1,4 +1,4 @@
-#> vplib:core/v1/core/clear_chunk
+#> vplib:core/__ver/core/clear_chunk
 
 # Clear utility blocks
 setblock -30000000 0 4320 minecraft:bedrock

@@ -1,5 +1,5 @@
 {
     "values": [
-        "vplib:core/v1/api/uninstall"
+        "vplib:core/__ver/api/uninstall"
     ]
 }

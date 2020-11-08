@@ -1,5 +1,5 @@
 {
     "values": [
-        "vplib:core/v1/load/enumerate"
+        "vplib:core/__ver/load/enumerate"
     ]
 }

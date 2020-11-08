@@ -10,6 +10,6 @@
         ]
     ],
     "rewards": {
-        "function": "vplib:core/v1/api/player/joined"
+        "function": "vplib:core/__ver/api/player/joined"
     }
 }

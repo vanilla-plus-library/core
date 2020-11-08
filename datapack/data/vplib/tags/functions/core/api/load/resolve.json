@@ -1,5 +1,5 @@
 {
     "values": [
-        "vplib:core/v1/load/resolve"
+        "vplib:core/__ver/load/resolve"
     ]
 }
