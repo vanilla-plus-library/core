@@ -5,7 +5,7 @@ scoreboard players set #load vplib.load 1
 
 ## 1.15
 scoreboard players set #1.15 vplib.load 0
-function vplib:core/__ver/core/check_1.15
+function vplib:core/__ver/version/check_1.15
 execute if score #1.15 vplib.load matches 0 run scoreboard players set #load vplib.load 0
 
 
