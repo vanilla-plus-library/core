@@ -22,6 +22,9 @@ scoreboard objectives add vplib.temp dummy
 scoreboard objectives add vplib.math dummy
 scoreboard objectives add vplib.id dummy
 
+team add vplib.collision
+team modify vplib.collision collisionRule never
+
 
 # Forceloaded chunk
 execute in minecraft:overworld run function vplib:core/__ver/core/set_chunk
