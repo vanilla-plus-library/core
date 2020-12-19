@@ -7,10 +7,10 @@
 # VERSION Set storage
 
 ## Current
-execute store result storage vplib:data modules.core.version.current int 1 run scoreboard players get #vplib.core.current vplib.load
+execute store result storage vplib:data modules.core.version.current int 1 run scoreboard players get #vplib.core.current load
 
 ## Breaking
-execute store result storage vplib:data modules.core.version.breaking int 1 run scoreboard players get #vplib.core.breaking vplib.load
+execute store result storage vplib:data modules.core.version.breaking int 1 run scoreboard players get #vplib.core.breaking load
 
 # DEBUG Message
 tellraw @a[tag=vplib.debug] [{"text":"[Debug]: ","color":"yellow","bold":true},{"text":"Loaded Vanilla+ Library: Core __ver","color":"white","bold":false}]
