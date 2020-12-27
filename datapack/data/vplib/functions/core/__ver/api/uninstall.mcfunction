@@ -3,4 +3,4 @@
 # From: #vplib:core/api/uninstall
 
 # Run function if lib version matches
-execute if score #vplib.core.current load matches 1 run function vplib:core/__ver/core/uninstall
+execute if score #vplib.core.current vplib.load matches 2 run function vplib:core/__ver/core/uninstall
