@@ -1,0 +1,33 @@
+#> vplib:core/__ver/player/id/bits_tag
+
+execute if score #index vplib.temp matches 0 run tag @s add vplib.id.bit0
+execute if score #index vplib.temp matches 1 run tag @s add vplib.id.bit1
+execute if score #index vplib.temp matches 2 run tag @s add vplib.id.bit2
+execute if score #index vplib.temp matches 3 run tag @s add vplib.id.bit3
+execute if score #index vplib.temp matches 4 run tag @s add vplib.id.bit4
+execute if score #index vplib.temp matches 5 run tag @s add vplib.id.bit5
+execute if score #index vplib.temp matches 6 run tag @s add vplib.id.bit6
+execute if score #index vplib.temp matches 7 run tag @s add vplib.id.bit7
+execute if score #index vplib.temp matches 8 run tag @s add vplib.id.bit8
+execute if score #index vplib.temp matches 9 run tag @s add vplib.id.bit9
+execute if score #index vplib.temp matches 10 run tag @s add vplib.id.bit10
+execute if score #index vplib.temp matches 11 run tag @s add vplib.id.bit11
+execute if score #index vplib.temp matches 12 run tag @s add vplib.id.bit12
+execute if score #index vplib.temp matches 13 run tag @s add vplib.id.bit13
+execute if score #index vplib.temp matches 14 run tag @s add vplib.id.bit14
+execute if score #index vplib.temp matches 15 run tag @s add vplib.id.bit15
+execute if score #index vplib.temp matches 16 run tag @s add vplib.id.bit16
+execute if score #index vplib.temp matches 17 run tag @s add vplib.id.bit17
+execute if score #index vplib.temp matches 18 run tag @s add vplib.id.bit18
+execute if score #index vplib.temp matches 19 run tag @s add vplib.id.bit19
+execute if score #index vplib.temp matches 20 run tag @s add vplib.id.bit20
+execute if score #index vplib.temp matches 21 run tag @s add vplib.id.bit21
+execute if score #index vplib.temp matches 22 run tag @s add vplib.id.bit22
+execute if score #index vplib.temp matches 23 run tag @s add vplib.id.bit23
+execute if score #index vplib.temp matches 24 run tag @s add vplib.id.bit24
+execute if score #index vplib.temp matches 25 run tag @s add vplib.id.bit25
+execute if score #index vplib.temp matches 26 run tag @s add vplib.id.bit26
+execute if score #index vplib.temp matches 27 run tag @s add vplib.id.bit27
+execute if score #index vplib.temp matches 28 run tag @s add vplib.id.bit28
+execute if score #index vplib.temp matches 29 run tag @s add vplib.id.bit29
+execute if score #index vplib.temp matches 30 run tag @s add vplib.id.bit30

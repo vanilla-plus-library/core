@@ -21,9 +21,18 @@ scoreboard objectives add vplib.data dummy
 scoreboard objectives add vplib.temp dummy
 scoreboard objectives add vplib.math dummy
 scoreboard objectives add vplib.id dummy
+scoreboard objectives add vplib.uuid0 dummy
+scoreboard objectives add vplib.uuid1 dummy
+scoreboard objectives add vplib.uuid2 dummy
+scoreboard objectives add vplib.uuid3 dummy
+scoreboard objectives add vplib.joined minecraft.custom:minecraft.leave_game
 
 team add vplib.collision
 team modify vplib.collision collisionRule never
+
+
+# Load integers 
+function vplib:core/__ver/load/integers
 
 
 # Forceloaded chunk
